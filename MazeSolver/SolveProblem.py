@@ -558,4 +558,5 @@ def Solve_Problem():
     print("The time to process is,",end)
     print("\n")
 
-Solve_Problem()
+if __name__ == "__main__":
+    Solve_Problem()
